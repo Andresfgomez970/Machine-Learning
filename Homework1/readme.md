@@ -18,6 +18,9 @@ from matplotlib.cm import get_cmap
 from scipy.optimize import curve_fit
 from sklearn.decomposition import PCA
 
+Bajar los datos de Secretaría de movilidad de Medellín, Competencia de datos movilidad accidentalidad2016, recuperado de 
+(https://bit.ly/2kRu4lW)
+
 
 ## Built With
 
@@ -34,6 +37,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Special thanks to my teachers to put me in this endeavour. 
-* 
-* 
+* Gracias a mi profesor Edison y Camilo por ponerme en estas.
+
