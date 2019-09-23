@@ -11,11 +11,16 @@ Para correr el programa solo de bebe  bajar el archivo Homework1.ipynb y correr 
 
 Las siguientes librerias de python son usadas: 
 
-import numpy as np 
+import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 from matplotlib.cm import get_cmap
+
 from scipy.optimize import curve_fit
+
 from sklearn.decomposition import PCA
 
 Bajar los datos de Secretaría de movilidad de Medellín, Competencia de datos movilidad accidentalidad2016, recuperado de 
